@@ -19,6 +19,17 @@ The implementation matches the format described in the original VAT papers and i
 
 ![VAT Example Visualization] ![image](https://github.com/user-attachments/assets/118cd233-306e-4e52-b036-128ba1e10f29)
 
+![Screenshot 2025-04-02 230208](https://github.com/user-attachments/assets/81e7bb6d-ad7b-4dca-bfef-3cbdb7634f2b)
+
+![Screenshot 2025-04-02 230222](https://github.com/user-attachments/assets/dfe58ab7-f660-4a9b-9f65-7822e97820e7)
+
+![Screenshot 2025-04-02 230256](https://github.com/user-attachments/assets/05463370-3dd2-45bf-b52e-a18f41665c9d)
+
+![Screenshot 2025-04-02 230246](https://github.com/user-attachments/assets/7c979933-6c30-4d0a-9278-c17d28fd3c2e)
+
+![Screenshot 2025-04-02 230239](https://github.com/user-attachments/assets/db9af43b-61a0-4f9f-ab8b-d269fde20b21)
+
+![Screenshot 2025-04-02 230231](https://github.com/user-attachments/assets/052c5463-9eed-4bf0-8c57-6ed4d47f332d)
 
 Python implementation of the Visual Assessment of Tendency (VAT) algorithm for assessing cluster tendency in datasets.
 
